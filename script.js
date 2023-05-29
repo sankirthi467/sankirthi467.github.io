@@ -1,1 +1,1 @@
-alert("hello");
+alert("welcome to my daily track progress page");
