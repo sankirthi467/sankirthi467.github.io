@@ -1,1 +1,1 @@
-alert("welcome to my daily track progress page");
+console.log("welcome to my daily track progress page");
