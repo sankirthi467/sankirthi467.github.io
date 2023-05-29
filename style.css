@@ -1,3 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h2{
-    color: aqua;
+    color: rgb(17, 18, 18);
+}
+h1{
+    color: orange;
 }
