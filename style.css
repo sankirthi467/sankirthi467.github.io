@@ -10,7 +10,7 @@ h1{
     color: rgb(220, 24, 24);
 }
 table, th, td {
-    border: 1px solid white;
+    border: 1px  white;
     border-collapse: collapse;
 }
 th, td {
