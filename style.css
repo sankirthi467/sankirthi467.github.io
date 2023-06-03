@@ -12,8 +12,12 @@ h1{
 table, th, td {
     border: 2px solid  rgb(169, 25, 25);
     border-collapse: collapse;
-    border-radius: 0.5cm;
 }
 th, td {
     background-color: #bec708;
+}
+
+image{
+display: flex ;
+flex-direction: row;
 }
