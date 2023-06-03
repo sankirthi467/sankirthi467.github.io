@@ -16,3 +16,8 @@ table, th, td {
 th, td {
     background-color: #bec708;
 }
+
+imageclass{
+    height: 192 px;
+    width: 192 px;
+}
