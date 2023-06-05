@@ -47,3 +47,9 @@ userdesignation{
     font-weight: lighter;
     color: black;
 }
+
+toggle{
+    color: white;
+    background-color: blue;
+    border-style: double;
+}
