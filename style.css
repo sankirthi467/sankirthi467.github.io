@@ -33,7 +33,6 @@ th, td {
 }
 
 .username{
-    margin-top:5;
     margin-bottom: 0;
     font-size: 40px;
     font-weight: bolder;
@@ -41,7 +40,6 @@ th, td {
 }
 
 .userdesignation{
-    margin-top: 0.01;
     font-size: 30px;
     font-style: italic;
     font-weight: lighter;
