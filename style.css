@@ -17,7 +17,10 @@ th, td {
     background-color: #bec708;
 }
 
-
+usercardclass{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
 card{
     box-shadow:  0 4px 8px 0 rgb(0,0,0,0.2);
     width: 300px;
