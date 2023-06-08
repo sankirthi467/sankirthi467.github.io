@@ -1,0 +1,16 @@
+.body{
+    margin: 0;
+}
+
+.search-box{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-box{
+    background-color: rgb(165, 235, 235);
+    font-family: 'Times New Roman';
+    color: black;
+}
