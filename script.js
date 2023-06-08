@@ -11,7 +11,7 @@ var changepic =function(){
         displayData=data1;
         isdata1=true;
     }
-    document.getElementById("imageid").src=displaydata.image;
-    document.getElementById("user-id").innerHTML=displaydata.name;
+    document.getElementById("imageid").src=displayData.image;
+    document.getElementById("user-id").innerHTML=displayData.name;
     document.getElementById("desig-id").innerHTML=displayData.designation;
 }

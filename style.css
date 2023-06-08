@@ -25,11 +25,15 @@ th, td {
     box-shadow:  0 4px 8px 0 rgb(0,0,0,0.2);
     width: 300px;
     transition: 0.15;
+    margin-left: 60px;
 }
 
 .imageclass{
-       height:286px;
-       width: 300px;
+    padding-top: 0.5cm;
+    height:280px;
+    width: 290px;
+    margin:0;
+    margin-left: 5px;
 }
 
 .username{
@@ -37,10 +41,19 @@ th, td {
     font-size: 40px;
     font-weight: bolder;
     color:black;
+    margin:0;
 }
 
 .userdesignation{
     font-size: 30px;
+    margin:0;
+    font-style: italic;
+    font-weight: lighter;
+    color: black;
+}
+.name{
+    font-size: 30px;
+    margin:0;
     font-style: italic;
     font-weight: lighter;
     color: black;
@@ -50,4 +63,10 @@ th, td {
     color: white;
     background-color: blue;
     border-style: double;
+    margin-left: 60px;
+    margin-top:3px;
+    height:25px;
+    width: 10%;
+    border-radius: 2cm;
+    cursor: pointer;
 }
