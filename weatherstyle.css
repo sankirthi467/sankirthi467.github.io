@@ -14,6 +14,8 @@
 .input-box{
     background-color: white;
     font-family: 'Times New Roman';
+    justify-content: center;
+    align-items: center;
     color: black;
     border:none;
 }
