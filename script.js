@@ -1,4 +1,4 @@
-var data1 = {image: "present.jpg",name:"K santoshi laxmi", designation:"undergraduate"};
+var data1 = {image: "presentimage.jpg",name:"K santoshi laxmi", designation:"undergraduate"};
 var data2 = {image:"childhood.jpg",name:"santoshi",designation: "developer"};
 var isdata1 = true;
 var displayData;
