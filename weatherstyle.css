@@ -13,4 +13,7 @@
     background-color: rgb(165, 235, 235);
     font-family: 'Times New Roman';
     color: black;
+    border: none;
+    border-radius: 0.5cm;
+    margin-top: 50px;
 }
