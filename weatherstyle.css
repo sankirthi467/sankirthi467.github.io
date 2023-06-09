@@ -45,8 +45,7 @@ body{
     padding: 20px;
     line-height: 32px;
     height: 50vh;
-     /* display: none;  */
-
+    display:none;
 } 
 
 .location-details{
