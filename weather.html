@@ -4,14 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Card 1</title>
-    <link rel="stylesheet" href="weatherstyle.css">
+    <title>Weather card project</title>
+    <link rel="stylesheet" href="./weatherstyle.css">
 </head>
 <body>
-    <div class="main">
-        <div class="search-box">
-            <input type="text" placeholder="Enter City Name..." autocomplete="off">
+    <div class="main-card">
+        <div class="searchbox">
+            <input class="input-box" type="text" placeholder="Enter city name..." autocomplete="off">
+        </div>
+        <div class="weather-box">
+            <div class="location-details">
+                <div class="city" id="city">Hyderabad,IN</div>
+                <div class="date" id="date">9 June (Friday) 2023</div>
+            </div>
+            <div class="weather-details">
+                <div class="temp" id="temp">30&deg;C</div>
+                <div class="minmaxtemp" id="minmaxtemp">30&deg;C (min)/31&deg;(max)</div>
+                <div class="sky" id="sky">Clouds</div>
+            </div>
         </div>
     </div>
+    <script src="./weatherscript.js"></script>
 </body>
 </html>
