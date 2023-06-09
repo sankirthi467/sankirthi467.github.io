@@ -1,4 +1,4 @@
-const weatherAPI = {key: "eb7a2d4a5a9b284fe54b7bb547238443", 
+const weatherAPI = {key: "e176f2aad946b91ba0852ae9cde2d368", 
                      baseUrl:  "https://api.openweathermap.org/data/2.5/weather"};
 
 const searchinp = document.getElementById('input-box');
