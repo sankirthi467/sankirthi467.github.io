@@ -1,0 +1,98 @@
+
+body{
+    font-family:'Times New Roman';
+    background-color: whitesmoke;
+}
+.page{
+    width: 21cm;
+    min-height: 29.7cm;
+    border: solid 2px;
+    margin-top: 50px;
+    margin-left: 350px;
+    background-color: white;
+    border-color:white;
+    box-shadow: 5px 5px 5px 5px rgb(225, 221, 221);
+}
+.insideborder{
+    margin: 30px 30px 30px 30px;
+}
+.starting{
+    display:flex;
+    flex-direction: row;
+}
+.name,.gitlink,.mobile,.email{
+    padding:0;
+    margin: 0 0 0 0;
+}
+.name,.email,.gitlink{
+    border: 2px solid;
+    width:fit-content;
+    border-color: aqua;
+}
+.name{
+    font-weight: bold;
+    color:black;
+}
+.gitlink{
+    color:black;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+a:visited{
+    color:black;
+    text-decoration: underline;
+}
+.emailmobile{
+    margin-left:400px;
+    padding:0;
+    margin-top:0;
+    width: max-content;
+}
+.mobile{
+    margin-left:50px;
+}
+.sideheading{
+    margin: 15px 0 0 0;
+}
+hr{
+    border:1px solid;
+    margin-top:0;
+    padding:0;
+    width: 19.5cm;
+    margin-left: 0;
+}
+
+.place,.date,.desc1,.desc,.side,.company-name,.location,.date1{
+    margin-top:0;
+    margin-bottom: 0;
+}
+.desc{
+    margin-right:365px;
+}
+.date{
+    margin-left: -45px;
+}
+.side,.company-name{
+    font-weight: bold;
+}
+.location{
+    margin-left: 500px;
+}
+.date1{
+    margin-left:465px;
+}
+.date1,.date,.desc,.desc1{
+    font-style: italic;
+}
+.workdesc{
+    margin-left: 25px;
+    margin-top:3px;
+}
